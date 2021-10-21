@@ -26,3 +26,5 @@ dates.sort(compareAsc);
 // ]
 
 console.log('These are the dates:', dates);
+
+// I bet I saw a mistake in line 12 ;) 
